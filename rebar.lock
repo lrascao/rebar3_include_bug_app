@@ -1,0 +1,4 @@
+[{<<"dep">>,
+  {git,"https://github.com/lrascao/rebar3_include_bug_dep.git",
+       {ref,"b3d2ab8ad21039383a163a902c38fa8d60335755"}},
+  0}].
